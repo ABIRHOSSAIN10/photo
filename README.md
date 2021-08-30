@@ -1,4 +1,8 @@
 # photo to aacii art
+
+pip install pillow
+
+
 git clone https://github.com/ABIRHOSSAIN10/photo
 
 cd photo
