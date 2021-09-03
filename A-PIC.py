@@ -20,7 +20,7 @@ $$ |  $$ |        $$ |     $$$$$$\ \$$$$$$  |
                                              
                                              
 """)
-print()
+print
  
 #$python "gome.py" --file data/Hom.jpg --cols 120
 from PIL import Image
@@ -223,7 +223,7 @@ def main():
 
     # set output file
 
-    outFile = 'ART.txt'
+    outFile = '/sdcard/ART.txt'
 
     if args.outFile:
 
