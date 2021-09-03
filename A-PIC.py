@@ -20,10 +20,7 @@ $$ |  $$ |        $$ |     $$$$$$\ \$$$$$$  |
 print
 print "==============================================="
 print
- 
-#$python "gome.py" --file data/Hom.jpg --cols 120
 from PIL import Image
- 
 # gray scale level values from: 
 # http://paulbourke.net/dataformats/asciiart/
  
