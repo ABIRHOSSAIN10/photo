@@ -6,7 +6,7 @@ try:
 except:
 	os.system("pip install numpy")
 import math
-os.system("rm -rf ART.txt")
+os.system("rm -rf /sdcard/ART.txt")
 os.system("clear")
 print("""\033[1;32m
  $$$$$$\          $$$$$$$\ $$$$$$\  $$$$$$\  
